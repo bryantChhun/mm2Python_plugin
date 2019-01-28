@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mm2Python_plugin.iml" filepath="$PROJECT_DIR$/mm2Python_plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mm2Python_plugin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mm2Python_plugin_main.iml" group="mm2Python_plugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mm2Python_plugin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mm2Python_plugin_test.iml" group="mm2Python_plugin" />
+    </modules>
+  </component>
+</project>
